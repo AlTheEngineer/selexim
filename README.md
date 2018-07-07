@@ -72,8 +72,8 @@ The SELEXIM software tool can be used to study the evolutionary dynamics of SELE
 the effects of round numbers, PCR cycles, nucleotide-bias, polymerase error rates, selection pressure, and sequence length. An important aspect about SELEXIM is that it has a modular structure. This means that it can be used as general framework for sequence evolution during SELEX. A user can change the models that are used to simulate each 
 step of the experiment. Here is an example figure of sequence populations during a simulation:
 
-![HE4_LOOP_DIST_FREQS](/plots/he4_loop_small_SELEX_Analytics_distFreqs.pdf)
+![HE4_LOOP_DIST_FREQS](plots/he4_loop_small_SELEX_Analytics_distFreqs.pdf)
 
 Another application that SELEXIM can be used for is aptamer discovery. Real SELEX experiments can require significant time and cost. At the end of an experiment, scientists usually identify a small number of aptamer candidates that have good affinity and specificity to the target ligand. SELEXIM can be used to generate a large number of alternative aptamer candidates that possess similar primary and secondary structures to the aptamers that were discovered from the real SELEX experiment. Here are some examples of alternative aptamers generated using SELEXIM against a candidate that was discovered during a SELEX experiment against a HE4 target ligand:
 
-[HE4_InSilico_Aptamer_Discovery](/plots/InSilico_Apt_Discovery.pdf)
+[HE4_InSilico_Aptamer_Discovery](plots/InSilico_Apt_Discovery.pdf)
