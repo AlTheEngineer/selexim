@@ -76,4 +76,4 @@ step of the experiment. Here is an example figure of sequence populations during
 
 Another application that SELEXIM can be used for is aptamer discovery. Real SELEX experiments can require significant time and cost. At the end of an experiment, scientists usually identify a small number of aptamer candidates that have good affinity and specificity to the target ligand. SELEXIM can be used to generate a large number of alternative aptamer candidates that possess similar primary and secondary structures to the aptamers that were discovered from the real SELEX experiment. Here are some examples of alternative aptamers generated using SELEXIM against a candidate that was discovered during a SELEX experiment against a HE4 target ligand:
 
-[HE4_InSilico_Aptamer_Discovery](/plots/InSilico_Apt_Discovery-1.png)
+![HE4_InSilico_Aptamer_Discovery](/plots/InSilico_Apt_Discovery-1.png)
